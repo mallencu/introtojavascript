@@ -1,5 +1,5 @@
 # Introduction to Javascript!
-## For this assignment, you will be tasked with creating a simple Javascript function and displaying its return value. In the file "weather.html", you will be converting an existing value from Celsius to Fahrenheit with a Javascript Function and creating a weather alert declaring whether or not it's hot or cold outside. 
+## For this assignment, you will be tasked with creating a simple Javascript function and displaying its return value.
 
 A simple weather website, created by the script in "weather.html", includes the current temperature in a given place in Celsius; in this case, it seems to be 30 degrees Celsius. However, the owner of the website wants to convert this value into Fahrenheit as well as create a weather alert that instantly sends web users a window message saying if it's cold or warm outside depending on the temperature in Fahrenheit.
 
