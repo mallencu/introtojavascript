@@ -5,7 +5,7 @@ A simple weather website, created by the script in "weather.html", includes the 
 
 Task 1: Temperature Conversion Function
 1. Create a JavaScript function that converts Celsius to Fahrenheit. Please DO NOT simply create a function that simply returns the answer. Operations must be included in your code. (Tip: If you don't already know the formula, Google it! Also, check out the slides from this week to see a function that does the reverse: converts Fahrenheit to Celsius) 
-2. Using the unedited <button> tag at the bottom of the script, please create Javascript code that replaces the "30" to the converted Fahrenheit value returned by the function created in the last step. In your final code, there should be a button at the bottom of the webpage that, when clicked, will swap the "30" (degrees celsius) to its equivalent in Fahrenheit. 
+2. Using the unedited "button" tag at the bottom of the script, please create Javascript code that replaces the "30" to the converted Fahrenheit value returned by the function created in the last step. In your final code, there should be a button at the bottom of the webpage that, when clicked, will swap the "30" (degrees celsius) to its equivalent in Fahrenheit. 
 
 Task 2: Weather Alert
 1. Implement a script that triggers a window alert based on the converted Fahrenheit temperature (from 30 degrees Celsius).
